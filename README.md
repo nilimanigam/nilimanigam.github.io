@@ -1,4 +1,3 @@
-#Nilima Nigam
 
 I am a Professor of Mathematics at Simon Fraser University. I work on the development and analysis of numerical methods for scattering and spectral problems, including FEM and integral equation methods. Apart from this, I enjoy using mathematics to solve real-world problems wherever they arise. I'm particularly interested in applications of mathematics in physiology.
 
