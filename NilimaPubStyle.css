@@ -1,0 +1,60 @@
+
+ <style type='text/css'>
+  body {
+    background-color: white;
+    color: #8a7f7f;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 23px;
+    text-align: justify;
+  }
+  
+  blockquote {
+   font-family=san serif;
+font-size: 12px;
+
+}
+
+blockquote p {
+font-size: 12px;
+font-family=san serif;
+}
+  
+  h2 {
+        margin-top: .25em;
+        margin-bottom: .25em;
+        font-weight: normal;
+        color: #549DC7;
+        letter-spacing: -1px;
+        font-size: 36px;
+  }
+  a {
+    color: #e58c43;
+    text-decoration: none;
+  }
+  ul {
+    list-style-image: url(images/li_triangle.png);
+  }
+  p, ul, ol {
+        margin-bottom: 1em;
+        line-height: 120%;
+  }
+
+  ul, ol {
+        margin-left: 1em;
+  }
+  hr {
+    border: 0;
+    color: #8a7f7f;
+    background-color: #8a7f7f;
+    height: 2px;
+    width: 760px;
+    text-align: left;
+  }
+  tr {border-bottom: 5px solid;border-left: 15px solid;border-right: 15px solid;}
+  td {
+  font-size:16px;
+    padding: .5em;
+    color: #444444;
+    background-color: #c1e5ff;
+}
+  </style>
